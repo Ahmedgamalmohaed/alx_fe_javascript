@@ -2,3 +2,4 @@
 ["showRandomQuote", "random", "innerHTML"]
 ["Math.random"]
 ["createAddQuoteForm"]
+["createElement", "appendChild"]
