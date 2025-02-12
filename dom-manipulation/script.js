@@ -5,3 +5,4 @@
 ["createElement", "appendChild"]
 ["newQuote", "document.getElementById", "addEventListener"]
 ["localStorage.setItem"]
+["localStorage.getItem"]
