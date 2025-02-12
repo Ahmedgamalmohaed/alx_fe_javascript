@@ -7,3 +7,4 @@
 ["localStorage.setItem"]
 ["localStorage.getItem"]
 "application/json", "JSON.stringify", "Blob"]
+["FileReader", "onload", "JSON.parse", "readAsText"]
