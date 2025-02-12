@@ -6,3 +6,4 @@
 ["newQuote", "document.getElementById", "addEventListener"]
 ["localStorage.setItem"]
 ["localStorage.getItem"]
+"application/json", "JSON.stringify", "Blob"]
