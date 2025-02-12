@@ -11,3 +11,4 @@
 ["populateCategories", "categoryFilter", "map"]
 ["option", "value", "textContent"]
 ["filterQuote", "quoteDisplay"]
+["selectedCategory"]
