@@ -13,3 +13,4 @@
 ["filterQuote", "quoteDisplay"]
 ["selectedCategory"]
 ["fetchQuotesFromServer", "function"]
+["await", "async", "https://jsonplaceholder.typicode.com/posts", ".json"]
