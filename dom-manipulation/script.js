@@ -9,3 +9,4 @@
 "application/json", "JSON.stringify", "Blob"]
 ["FileReader", "onload", "JSON.parse", "readAsText"]
 ["populateCategories", "categoryFilter", "map"]
+["option", "value", "textContent"]
