@@ -12,3 +12,4 @@
 ["option", "value", "textContent"]
 ["filterQuote", "quoteDisplay"]
 ["selectedCategory"]
+["fetchQuotesFromServer", "function"]
