@@ -3,3 +3,4 @@
 ["Math.random"]
 ["createAddQuoteForm"]
 ["createElement", "appendChild"]
+["newQuote", "document.getElementById", "addEventListener"]
