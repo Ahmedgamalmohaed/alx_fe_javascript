@@ -15,3 +15,4 @@
 ["fetchQuotesFromServer", "function"]
 ["await", "async", "https://jsonplaceholder.typicode.com/posts", ".json"]
 ["method", "POST", "headers", "Content-Type"]
+["syncQuotes"]
